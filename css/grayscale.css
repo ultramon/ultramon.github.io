@@ -330,7 +330,7 @@ ul.banner-social-buttons {
 }
 
 .teamlist li {
-    height: 120px;
+    min-height: 120px;
 }
 
 .teamface {
