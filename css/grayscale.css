@@ -329,6 +329,10 @@ ul.banner-social-buttons {
     }
 }
 
+.teamlist li {
+    height: 120px;
+}
+
 .teamface {
     height: 100px;
     float: left;
