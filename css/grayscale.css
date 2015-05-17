@@ -338,7 +338,11 @@ ul.banner-social-buttons {
     float: left;
 }
 
-.teamtext {
+.teamname {
+    margin-bottom: 5px;
+}
+
+.teambio {
 
 }
 
