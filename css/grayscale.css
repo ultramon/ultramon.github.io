@@ -265,18 +265,6 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #000;
-    background: url(../img/wristband-bg.jpg) no-repeat center center scroll;
-    background-color: #fff;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
-.partners-section {
-    width: 100%;
-    padding: 50px 0;
-    color: #000;
     background: url(../img/cat-bg.jpg) no-repeat center center scroll;
     background-color: #fff;
     -webkit-background-size: cover;
